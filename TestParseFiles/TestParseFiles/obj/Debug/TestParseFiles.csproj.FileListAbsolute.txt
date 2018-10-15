@@ -1,0 +1,10 @@
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.csprojResolveAssemblyReference.cache
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.Properties.Resources.resources
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.csproj.GenerateResource.cache
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.csproj.CoreCompileInputs.cache
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\bin\Debug\TestParseFiles.exe.config
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\bin\Debug\TestParseFiles.exe
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\bin\Debug\TestParseFiles.pdb
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.exe
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.pdb
+\\ad.wayne.edu\users\fl6800\Documents\Visual Studio 2017\Projects\TestParseFiles\TestParseFiles\obj\Debug\TestParseFiles.FileparsingForm.resources
