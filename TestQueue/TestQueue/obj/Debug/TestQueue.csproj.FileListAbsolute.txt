@@ -1,0 +1,7 @@
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\obj\Debug\TestQueue.csprojResolveAssemblyReference.cache
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\obj\Debug\TestQueue.csproj.CoreCompileInputs.cache
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\bin\Debug\TestQueue.exe.config
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\bin\Debug\TestQueue.exe
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\bin\Debug\TestQueue.pdb
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\obj\Debug\TestQueue.exe
+C:\Users\fl6800\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\TestQueue\TestQueue\obj\Debug\TestQueue.pdb
