@@ -1,0 +1,12 @@
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\bin\Debug\ExcelStatistics.exe.config
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\bin\Debug\ExcelStatistics.exe
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\bin\Debug\ExcelStatistics.pdb
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\bin\Debug\Excel.dll
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\bin\Debug\Excel.pdb
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\obj\Debug\ExcelStatistics.Form1.resources
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\obj\Debug\ExcelStatistics.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\obj\Debug\ExcelStatistics.csproj.GenerateResource.Cache
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\obj\Debug\ExcelStatistics.exe
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\obj\Debug\ExcelStatistics.pdb
+c:\users\mohammad\documents\visual studio 2017\Projects\ExcelStatistics\ExcelStatistics\obj\Debug\ExcelStatistics.csprojResolveAssemblyReference.cache
