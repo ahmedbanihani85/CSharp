@@ -1,6 +1,0 @@
-C:\Users\AhmadMBaniHani\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\BinaryTree\TestByRefPassing\TestByRefPassing\bin\Debug\TestByRefPassing.exe.config
-C:\Users\AhmadMBaniHani\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\BinaryTree\TestByRefPassing\TestByRefPassing\obj\Debug\TestByRefPassing.csprojResolveAssemblyReference.cache
-C:\Users\AhmadMBaniHani\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\BinaryTree\TestByRefPassing\TestByRefPassing\bin\Debug\TestByRefPassing.exe
-C:\Users\AhmadMBaniHani\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\BinaryTree\TestByRefPassing\TestByRefPassing\bin\Debug\TestByRefPassing.pdb
-C:\Users\AhmadMBaniHani\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\BinaryTree\TestByRefPassing\TestByRefPassing\obj\Debug\TestByRefPassing.exe
-C:\Users\AhmadMBaniHani\Google Drive\DataStructure&Algorithms\UdemyCourse-C#\BinaryTree\TestByRefPassing\TestByRefPassing\obj\Debug\TestByRefPassing.pdb
